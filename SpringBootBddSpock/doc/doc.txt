@@ -1,0 +1,4 @@
+https://github.com/fatimacasau/spring-boot-example
+https://allegro.tech/2018/04/Spring-WebMvcTest-with-Spock.html
+
+https://stackoverflow.com/questions/25186004/running-spock-unit-tests-with-maven
